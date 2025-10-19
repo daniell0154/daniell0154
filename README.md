@@ -25,4 +25,4 @@ Eu sou um desenvolvedor que trabalha principalmente com desenvolvimento mobile e
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/daniell0154/daniell0154/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/daniell0154/daniell0154/output/snake.svg)
