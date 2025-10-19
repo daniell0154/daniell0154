@@ -21,8 +21,7 @@ Eu sou um desenvolvedor que trabalha principalmente com desenvolvimento mobile e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 
 ###
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniell0154&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=daniell0154&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&v=1)](https://github.com/daniell0154)
 
 ###
 ![Snake animation](https://raw.githubusercontent.com/daniell0154/daniell0154/output/snake.svg)
