@@ -1,6 +1,6 @@
 # Olá!
 
-<img align="right" height="260" src="https://media.tenor.com/mlvfo_a45Q8AAAAC/dragon-ball.gif"/>
+<img align="right" height="220" src="https://media.tenor.com/mlvfo_a45Q8AAAAC/dragon-ball.gif"/>
 
 Sou desenvolvedor focado em Back-end, apaixonado por tecnologia e sempre buscando aprender coisas novas.
 
